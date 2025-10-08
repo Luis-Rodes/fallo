@@ -10,7 +10,8 @@
   "dependencies": {
     "@vue/compat": "^3.5.22",
     "joi": "^18.0.1",
-    "vue": "^3.2.13"
+    "upgrade": "^1.1.0",
+    "vue": "^3.5.22"
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "^5.0.9",
